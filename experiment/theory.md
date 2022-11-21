@@ -27,3 +27,4 @@ $$| Vo(s)|= \frac{K * Vin}{\sqrt(1+f/fc)^{4}}$$
 <br/><br><br><figcaption style="text-align:center;position:relative;top:-60px;left:50px;font-size:12px;">[Fig 5: Frequency Response of second order Butterworth Filter]</figcaption>
                      </p>					
                      </div>
+                     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
