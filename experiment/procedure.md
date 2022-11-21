@@ -30,3 +30,4 @@ After taking 5 readings click on 'Plot' button to see the frequency response plo
 <li>Set the value of Ri=10KΩ,Click on Calculate button to see the change in Q value.Repeat the above steps.</li>
  
   </ol>	
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
